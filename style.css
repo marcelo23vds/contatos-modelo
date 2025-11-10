@@ -69,6 +69,7 @@ main.card-show .container {
     box-shadow: 2px 2px 8px #0003;
     border-radius: 8px;
     border-bottom: 32px solid red;
+    cursor: pointer;
 }
 .card-contato img{
     height: 160px;
