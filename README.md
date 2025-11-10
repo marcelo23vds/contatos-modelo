@@ -2,7 +2,7 @@
 
 ![](./img/preview.png)
 
-Projeto realizado com o intuito de aprender a utilização de todos os verbos (CRUD) no Frontend.
+Projeto criado para exercitar a implementação completa das operações CRUD (Create, Read, Update, Delete) utilizando recursos do Frontend.
 
 ## Tecnologias
 * HTML
