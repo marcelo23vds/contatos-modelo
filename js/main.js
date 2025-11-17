@@ -116,7 +116,7 @@ async function salvarContato() {
     celular,
     endereco,
     cidade,
-    foto: "semfoto.png"
+    foto: contatoSelecionado?.dataset?.foto || "semfoto.png"
   }
 
   if (contatoSelecionado) {
@@ -160,3 +160,4 @@ container.addEventListener('click', (e) => {
   exibirFormulario(card)
 })
 
+//imagem.src = URL.createObjectURL(foto.files[0])
