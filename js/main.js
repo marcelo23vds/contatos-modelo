@@ -116,7 +116,7 @@ async function salvarContato() {
     celular,
     endereco,
     cidade,
-    foto: contatoSelecionado?.dataset?.foto || "semfoto.png"
+    foto: "semfoto.png"
   }
 
   if (contatoSelecionado) {
